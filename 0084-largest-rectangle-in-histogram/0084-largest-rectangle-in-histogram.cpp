@@ -1,11 +1,10 @@
 class Solution {
 private:
-private:
     vector<int> nextSmallerElement(vector<int> arr, int n) {
         stack<int> s;
         s.push(-1);
         vector<int> ans(n);
-        for (int i = n - 1; i >= 0; i--) {
+        for (int i = n - 1; i >= 0; i--) {//we iterated loop from right side
             int curr = arr[i];
             while (s.top() != -1 && arr[s.top()] >= curr)
                 s.pop();
