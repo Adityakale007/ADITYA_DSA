@@ -60,6 +60,7 @@ public:
         vector<int> Histogram(matrix[0].size() , 0);
 
         for(int i=0; i<matrix.size(); i++){
+            //creating histogram vector
             for(int j=0; j<Histogram.size(); j++){
                 if(matrix[i][j] == '1'){
                     Histogram[j]++;
