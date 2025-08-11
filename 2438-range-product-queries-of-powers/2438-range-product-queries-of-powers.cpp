@@ -20,6 +20,8 @@ public:
         }
         sort(powers.begin(), powers.end());
 
+        
+
         for (int i = 0; i < queries.size(); i++) {
             int left = queries[i][0];
             int right = queries[i][1];
