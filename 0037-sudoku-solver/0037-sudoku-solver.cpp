@@ -11,7 +11,7 @@ class Solution {
             if(board[i][col] == charVal){
                 return false;
             }
-            //check 3x3 matrix
+            //////////check 3x3 matrix////////////////
             if(board[3*(row/3) + i/3][3*(col/3) + i%3] == charVal){
                 return false;
             }
