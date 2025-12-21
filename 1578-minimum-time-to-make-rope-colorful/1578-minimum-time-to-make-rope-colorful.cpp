@@ -1,18 +1,24 @@
 class Solution {
 public:
     int minCost(string colors, vector<int>& neededTime) {
-        int total = 0;
         int n = colors.size();
+        int ans = 0;
+        int i = 0;
 
-        for (int i = 1; i < n; i++) {
-            if (colors[i] == colors[i - 1]) {
-                // Remove the smaller one, keep the larger
-                total += min(neededTime[i], neededTime[i - 1]);
-                // Update to keep the larger cost as the "remaining" one
-                neededTime[i] = max(neededTime[i], neededTime[i - 1]);
+        while(i<n){
+            int sum = 0;
+            int j=i+1;
+            int maxi = neededTime[i];
+            sum = neededTime[i];
+
+            while(j<n && colors[j] == colors[i]){ //basically compairing i+1 and i
+                maxi = max(maxi,neededTime[j]);
+                sum += neededTime[j];
+                j++;
             }
+            i = j;
+            ans = ans + sum - maxi; 
         }
-
-        return total;
+        return ans;
     }
 };
