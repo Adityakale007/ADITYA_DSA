@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -15,4 +16,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 <!---LeetCode Topics End-->
