@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3849-maximum-bitwise-xor-after-rearrangement/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3849-maximum-bitwise-xor-after-rearrangement/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,4 +40,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3848-check-digitorial-permutation](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3848-check-digitorial-permutation/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3849-maximum-bitwise-xor-after-rearrangement/) | Medium |
 <!---LeetCode Topics End-->
