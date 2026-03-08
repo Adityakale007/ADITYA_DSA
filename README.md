@@ -52,4 +52,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2957-remove-adjacent-almost-equal-characters/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 <!---LeetCode Topics End-->
