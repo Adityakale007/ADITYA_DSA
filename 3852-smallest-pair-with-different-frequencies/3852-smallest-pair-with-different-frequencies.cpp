@@ -12,6 +12,7 @@ public:
         int target = m.begin()->second;
 
         for(auto it = next(m.begin());it != m.end() ; ++it){
+            //from next as (smallest = m.begin()->first;)
             if(it->second != target){
                 return {smallest,it->first};
             }
