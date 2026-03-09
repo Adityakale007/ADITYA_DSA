@@ -11,21 +11,35 @@
  */
 class Solution {
 public:
-    void rec(TreeNode* root,vector<int> &ans,int level){
-        if(root == NULL)
-            return ;
-        
-        if(level == ans.size()){
-            ans.push_back(root->val);
-        }
-        
-        //call is frm right to left
-        rec(root->right,ans,level+1);
-        rec(root->left,ans,level+1);
-    }
     vector<int> rightSideView(TreeNode* root) {
+        map<int,int>mp;
+        queue<pair<TreeNode* , int>>q;
         vector<int>ans;
-        rec(root,ans,0);
+
+        if(root ==NULL)
+            return ans;
+        
+        q.push(make_pair(root,0));
+
+        while(!q.empty()){
+            pair<TreeNode* , int> temp = q.front();
+            q.pop();
+
+            TreeNode* frontNode = temp.first;
+            int lvl = temp.second;
+
+            mp[lvl] = frontNode->val;
+
+            if(frontNode->left)
+                q.push(make_pair(frontNode->left,lvl+1));
+
+            if(frontNode->right)
+                q.push(make_pair(frontNode->right,lvl+1));
+        }
+
+        for(auto i:mp){
+            ans.push_back(i.second);
+        }
         return ans;
     }
 };
