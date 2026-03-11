@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3849-maximum-bitwise-xor-after-rearrangement/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
