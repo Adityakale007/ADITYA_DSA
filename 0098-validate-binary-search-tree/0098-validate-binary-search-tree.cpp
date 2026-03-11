@@ -32,7 +32,7 @@ public:
     //     return true;
     // }
 
-    bool isBST(TreeNode* root,int min,int max){
+    bool isBST(TreeNode* root,long long min,long long max){
         //base case
         if(root == NULL)
             return true;
@@ -52,6 +52,6 @@ public:
 
         // checking with O(1) space
         //without inorder traversal
-        return isBST(root,INT_MIN,INT_MAX);
+        return isBST(root,LLONG_MIN,LLONG_MAX);
     }
 };
