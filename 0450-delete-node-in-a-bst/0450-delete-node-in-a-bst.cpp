@@ -61,6 +61,8 @@ public:
             //either find max from left
             //or
             //find min from right
+            //replace it from main value
+            //delete min/max node
 
             if(root->left != NULL   &&  root->right != NULL){
                 int mini = minVal(root->right) -> val;
