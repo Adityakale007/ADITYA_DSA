@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
 ## Matrix
@@ -112,7 +113,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
