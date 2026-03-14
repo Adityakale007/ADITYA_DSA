@@ -29,9 +29,9 @@ public:
         int l=0;
         int r=n-1;
         while(l<r){
-            if(v[l] + v[r] == k)return true;
-            if(v[l] + v[r] > k)r--;
-            if(v[l] + v[r] < k)l++;
+            if(v[l] + v[r] == k) return true;
+            else if(v[l] + v[r] > k) r--;
+            else l++;
         }
         return false;
     }
