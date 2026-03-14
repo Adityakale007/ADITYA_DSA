@@ -39,24 +39,52 @@ public:
 
         // return NULL;
 
+
+
+
+
+
+
+
         //base case
-        if(root == NULL)
-            return NULL;
+        // if(root == NULL)
+        //     return NULL;
 
-        if(root-> val < p->val  &&  root->val < q->val){
-            return lowestCommonAncestor(root->right,p,q);
-        }
+        // if(root-> val < p->val  &&  root->val < q->val){
+        //     return lowestCommonAncestor(root->right,p,q);
+        // }
 
-        if(root-> val > p->val  &&  root->val > q->val){
-            return lowestCommonAncestor(root->left,p,q);
-        }
+        // if(root-> val > p->val  &&  root->val > q->val){
+        //     return lowestCommonAncestor(root->left,p,q);
+        // }
 
-        //else case return root as it is
-        //if(root-> val == q->val  &&  root->val == q->val)
-        return root;
+        // //else case return root as it is
+        // //if(root-> val == q->val  &&  root->val == q->val)
+        // return root;
 
         // if root < p AND root < q → both nodes are in right subtree
         // if root > p AND root > q → both nodes are in left subtree
         // otherwise root is LCA
+
+
+
+
+
+
+        //same in iterative way 
+        //to save space -> O(1)
+
+        while(root != NULL){
+            if(root-> val < p->val  &&  root->val < q->val){
+                root = root->right;
+            }
+            else if(root-> val > p->val  &&  root->val > q->val){
+                root = root->left;
+            }
+            else{
+                return root;
+            }
+        }
+        return NULL;
     }
 };
