@@ -20,7 +20,7 @@ public:
         inorder(root->right,v);
     }
 
-    TreeNode* inorderToBalancedBST(int start,int end,vector<int>v){
+    TreeNode* inorderToBalancedBST(int start,int end,vector<int> &v){
         if(start > end)
             return NULL;
 
