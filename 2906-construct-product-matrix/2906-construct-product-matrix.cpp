@@ -7,12 +7,14 @@ public:
         int n = nums.size();
         vector<int> v(n,1);
 
+        //prefix sum
         long long left = 1;
         for(int i = 0;i<n;i++){
             v[i] = left;
             left = (left * nums[i])%MOD;
         }
 
+        //suffix sum
         long long right = 1;
         for(int i = n-1;i>=0;i--){
             v[i] = (1LL * v[i] * right)%MOD;
