@@ -5,38 +5,70 @@ public:
     MyQueue() {
     }
     
-    void push(int x) {
-        //first take all from s1 out in stack order and put it in s2
-        //then puush required integer in s1
-        //then move all s2 elements back to s1 in same stack order
+    // void push(int x) {
+    //     //first take all from s1 out in stack order and put it in s2
+    //     //then puush required integer in s1
+    //     //then move all s2 elements back to s1 in same stack order
 
-        while(s1.size()){
-            s2.push(s1.top());
-            s1.pop();
-        }
+    //     while(s1.size()){
+    //         s2.push(s1.top());
+    //         s1.pop();
+    //     }
 
-        s1.push(x);
+    //     s1.push(x);
 
-        while(s2.size()){
-            s1.push(s2.top());
-            s2.pop();
-        }
-    }
+    //     while(s2.size()){
+    //         s1.push(s2.top());
+    //         s2.pop();
+    //     }
+    // }
     
-    int pop() {
-        if(s1.size() == 0)return -1;
-        int val = s1.top();
-        s1.pop();
+    // int pop() {
+    //     if(s1.size() == 0)return -1;
+    //     int val = s1.top();
+    //     s1.pop();
+    //     return val;
+    // }
+    
+    // int peek() {
+    //     if(s1.size() == 0)return -1;
+    //     return s1.top();
+    // }
+
+    //approach 2
+    //where top and pp will require more time
+    void push(int x){
+        s1.push(x);
+    }
+
+    int pop(){
+        if(s1.size() == 0   && s2.size() == 0)return -1;
+        if(s2.size() == 0){
+            while(s1.size()){
+                s2.push(s1.top());
+                s1.pop();
+            }
+        }
+        int val = s2.top();
+        s2.pop();
         return val;
     }
-    
-    int peek() {
-        if(s1.size() == 0)return -1;
-        return s1.top();
+
+    int peek(){
+        if(s1.size() == 0   && s2.size() == 0)return -1;
+        if(s2.size() == 0){
+            while(s1.size()){
+                s2.push(s1.top());
+                s1.pop();
+            }
+        }
+        int val = s2.top();
+        return val;
     }
+
     
     bool empty() {
-        return s1.size() == 0;
+        return (s1.size() == 0  &&  s2.size() == 0);
     }
 };
 
