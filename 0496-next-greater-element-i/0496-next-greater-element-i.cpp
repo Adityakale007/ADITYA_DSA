@@ -1,34 +1,36 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
+        //using monotonic stack
+        //in decreasing order
         int n = nums2.size();
-        vector<int> result(n,-1);
         stack<int> s;
-
-        for(int i=0;i<n;i++){
-            while(!s.empty() && nums2[i] > nums2[s.top()]){
-                int index = s.top();
-                s.pop();
-
-                result[index] = nums2[i];
+        vector<int>ans;
+        for(int i=n-1;i>=0;i--){
+            while(!s.empty()    &&  nums2[i] > s.top()){
+                    s.pop();
             }
-            s.push(i);
-        }
-        int m = nums1.size();
 
-        vector<int> indexes;
-        for(int i=0;i<m;i++){
+            if(s.empty()){
+                ans.push_back(-1);
+                s.push(nums2[i]);
+            }
+            else{
+                //nums[i] < s.top()
+                ans.push_back(s.top());
+                s.push(nums2[i]);
+            }
+        }
+        reverse(ans.begin(),ans.end());
+        vector<int>ans2;
+        for(int i=0;i<nums1.size();i++){
             for(int j=0;j<n;j++){
                 if(nums1[i] == nums2[j]){
-                    indexes.push_back(j);
+                    ans2.push_back(ans[j]);
+                    break;
                 }
             }
         }
-
-        vector<int> answer(m);
-        for(int i=0;i<m;i++){
-            answer[i] = result[indexes[i]];
-        }
-        return answer;
+        return ans2;
     }
 };
