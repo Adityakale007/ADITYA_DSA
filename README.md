@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2957-remove-adjacent-almost-equal-characters/) | Medium |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3849-maximum-bitwise-xor-after-rearrangement/) | Medium |
 ## Recursion
