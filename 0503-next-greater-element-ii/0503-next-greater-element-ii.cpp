@@ -1,22 +1,23 @@
 class Solution {
 public:
     vector<int> nextGreaterElements(vector<int>& nums) {
+        //using monotonic stack
+        //in decreasing order
         int n = nums.size();
-        vector<int> result(n, -1); // Default to -1 if no greater element exists
-        stack<int> stack; // Stack stores indices
-
-        for (int i = 0; i < 2*n; i++) { //traverse graph twice
-            int num = nums[i%n];
-
-            while (!stack.empty() && num > nums[stack.top()]) {
-                int index = stack.top();
-                stack.pop();
-                result[index] = num;
+        stack<int> s;
+        vector<int>ans(n,-1);
+        for(int i=2*n-1;i>=0;i--){
+            while(!s.empty()    &&  nums[i%n] >= s.top()){
+                    s.pop();
             }
-            if(i<n)
-                stack.push(i);
+            if(i<n){
+                //nums[i] < s.top()
+                if(!s.empty()){
+                    ans[i] = s.top();
+                }
+            }
+            s.push(nums[i%n]);
         }
-        
-        return result;
+        return ans;
     }
 };
