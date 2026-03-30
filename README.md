@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2957-remove-adjacent-almost-equal-characters/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Divide and Conquer
@@ -161,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0496-next-greater-element-i/) | Easy |
@@ -169,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
