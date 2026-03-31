@@ -1,32 +1,41 @@
 class Solution {
 public:
-    vector<int> asteroidCollision(vector<int>& a) {
-        int n = a.size();
-        vector<int> st;
-
+    vector<int> asteroidCollision(vector<int>& arr) {
+        int n = arr.size();
+        stack<int> s;
+        //collosion happens only when
+        //A is going right and B is moving left
         for(int i=0;i<n;i++){
-            bool destroyed = false;
+            if(arr[i] > 0){
+                s.push(arr[i]);
+            }
+            else{//for negative element
 
-            while(!st.empty() && st.back()>0 && a[i]<0){
-                if(st.back()    <   -a[i]){
-                    st.pop_back();
+                //collision happens when
+                while(!s.empty()    &&  s.top()>0   &&  s.top() < abs(arr[i])){
+                    s.pop();
                 }
-                else if(st.back()    ==   -a[i]){
-                    st.pop_back();
-                    destroyed = true;
-                    break;
+
+                //equal condition:
+                if(!s.empty()   &&  s.top() == abs(arr[i])){
+                    //separate as ..also can happen when s.top()<0 -> [-8,8]
+                    s.pop();
                 }
-                else{
-                    destroyed = true;
-                    break;
+                else if(s.empty()   ||  s.top()<0){
+                    //negative elements will push only when
+                    s.push(arr[i]);
                 }
             }
+        }   
 
-            if(!destroyed){
-                st.push_back(a[i]);
-            }
+
+        vector<int>ans;
+        while(!s.empty()){
+            int curr = s.top();
+            ans.push_back(curr);
+            s.pop();
         }
-
-        return st;
+        reverse(ans.begin(),ans.end());
+        return ans;
     }
 };
