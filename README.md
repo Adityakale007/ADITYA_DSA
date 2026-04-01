@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0735-asteroid-collision/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
