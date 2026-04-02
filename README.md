@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2104-sum-of-subarray-ranges](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0085-maximal-rectangle/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2957-remove-adjacent-almost-equal-characters/) | Medium |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
