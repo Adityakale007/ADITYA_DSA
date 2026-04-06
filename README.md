@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0113-path-sum-ii](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0113-path-sum-ii/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0113-path-sum-ii](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0113-path-sum-ii/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0113-path-sum-ii](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0113-path-sum-ii/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -192,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0085-maximal-rectangle/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0402-remove-k-digits](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0402-remove-k-digits/) | Medium |
