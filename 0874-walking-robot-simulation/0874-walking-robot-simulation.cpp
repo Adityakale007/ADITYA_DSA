@@ -1,11 +1,11 @@
 class Solution {
 public:
     //north -> (0,1) as only x is to be increased
-    //east -> (1,0) as only x is to be increased
+    //east -> (1,0) as only y is to be increased
+    //south -> (0,-1) as only y is to be decreased
     //west -> (-1,0) as only x is to be decreased
-    //south -> (0,-1) as only x is to be decreased
     int robotSim(vector<int>& commands, vector<vector<int>>& obstacles) {
-        //north -> east -> south -> west 
+        //directions => north -> east -> south -> west 
         vector<pair<int,int>>dir = {{0,1},{1,0},{0,-1},{-1,0}};
 
         //initializing
