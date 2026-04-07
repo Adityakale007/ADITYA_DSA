@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2957-remove-adjacent-almost-equal-characters/) | Medium |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3849-maximum-bitwise-xor-after-rearrangement/) | Medium |
 ## Recursion
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
