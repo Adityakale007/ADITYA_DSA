@@ -6,7 +6,7 @@ public:
         for(int i=0;i<n;i++){
             int index = q[i][0];
             while(index <= q[i][1]){
-                nums[index] = (nums[index] * q[i][3]) % MOD;
+                nums[index] = (1LL*nums[index] * q[i][3]) % MOD;
                 index += q[i][2];
             }
         }
