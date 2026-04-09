@@ -50,7 +50,7 @@ public:
             else{
                 //insert at tail
                 tail->next = top;
-                tail = top;
+                tail = top; //increment tail
             }
         }
         return head;
