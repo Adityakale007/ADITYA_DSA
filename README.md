@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 ## Matrix
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
