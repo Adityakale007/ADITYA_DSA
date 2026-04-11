@@ -23,6 +23,7 @@ public:
                 ans = min(ans,sum);
             }
         }
+        // here TIME COMPLEXITY = O(N)
         return ans != INT_MAX ? 2*ans : -1;
     }
 };
