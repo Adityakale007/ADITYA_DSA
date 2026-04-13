@@ -13,13 +13,16 @@ public:
 
         for(int rear = 0 ; rear < n ; rear++){
             balance += (gas[rear] - cost[rear]);
+
             if(balance < 0){
                 deficet += balance;
                 front = rear + 1;
                 balance = 0;
             }
+
         }
 
+        //deficet is used to traverse this in one go(O(N))
         if(balance + deficet >= 0){
             return front;
         }
