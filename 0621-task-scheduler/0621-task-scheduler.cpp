@@ -26,9 +26,10 @@ public:
 
             for(int i=0;i<cycle;i++){
                 if(!maxHeap.empty()){
-                    auto top = maxHeap.top();
+                    pair<char,int> top = maxHeap.top();
                     maxHeap.pop();
                     freq[top.first]--;
+                    
                     cnt++;
 
                     if(freq[top.first] > 0){
