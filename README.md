@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2957-remove-adjacent-almost-equal-characters/) | Medium |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1848-minimum-distance-to-the-target-element](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
