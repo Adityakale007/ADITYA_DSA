@@ -2,15 +2,15 @@ class Solution {
 public:
     vector<int> solveQueries(vector<int>& nums, vector<int>& queries) {
         int n = nums.size();
-        unordered_map<int,vector<int>>mp;
-        for(int i=0;i<n;i++){
+        unordered_map<int, vector<int>> mp;
+        for (int i = 0; i < n; i++) {
             mp[nums[i]].push_back(i);
         }
 
-        vector<int>ans;
+        vector<int> ans;
 
-        for(int i=0;i<queries.size();i++){
-            if(mp[nums[queries[i]]].size() == 1){
+        for (int i = 0; i < queries.size(); i++) {
+            if (mp[nums[queries[i]]].size() == 1) {
                 ans.push_back(-1);
                 continue;
             }
@@ -32,13 +32,12 @@ public:
             // }
             // ans.push_back(d);
 
-
-            auto &v = mp[nums[queries[i]]];
+            auto& v = mp[nums[queries[i]]];
             int m = v.size();
-            //as vectoris already sorted
-            //we can use lowerbound as 
-            //we only need to find the close ones to left and to right
-            int index = lower_bound(v.begin(),v.end(),queries[i]) - v.begin();
+            // as vectoris already sorted
+            // we can use lowerbound as
+            // we only need to find the close ones to left and to right
+            int index = lower_bound(v.begin(), v.end(), queries[i]) - v.begin();
 
             int left = v[(index - 1 + m) % m];
             int right = v[(index + 1) % m];
@@ -47,7 +46,7 @@ public:
             // d = min(d, abs(queries[i] - right));
             // //as circular
             // d = min(d, abs(n - d));
-            
+
             // You’re effectively doing:
             // min( min(dist1, dist2), n - min(dist1, dist2) )
             // But correct is:
@@ -56,10 +55,11 @@ public:
             int dist1 = abs(queries[i] - left);
             int dist2 = abs(queries[i] - right);
 
-            dist1 = min(dist1 , n - dist1);
-            dist2 = min(dist2 , n - dist2);
+            // for circular
+            dist1 = min(dist1, n - dist1);
+            dist2 = min(dist2, n - dist2);
 
-            ans.push_back(min(dist1 , dist2));
+            ans.push_back(min(dist1, dist2));
         }
 
         return ans;
