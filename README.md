@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -283,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 ## Design
