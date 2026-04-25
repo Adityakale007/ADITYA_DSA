@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2957-remove-adjacent-almost-equal-characters/) | Medium |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0692-top-k-frequent-words/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3848-check-digitorial-permutation](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3848-check-digitorial-permutation/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
