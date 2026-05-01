@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1848-minimum-distance-to-the-target-element](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1895-largest-magic-square](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1895-largest-magic-square/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1895-largest-magic-square](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1895-largest-magic-square/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -224,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0846-hand-of-straights](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0846-hand-of-straights/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
