@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0085-maximal-rectangle/) | Hard |
 | [0134-gas-station](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0134-gas-station/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0174-dungeon-game](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0174-dungeon-game/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0085-maximal-rectangle/) | Hard |
+| [0174-dungeon-game](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0174-dungeon-game/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1895-largest-magic-square](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1895-largest-magic-square/) | Medium |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0085-maximal-rectangle/) | Hard |
+| [0174-dungeon-game](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0174-dungeon-game/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2957-remove-adjacent-almost-equal-characters/) | Medium |
