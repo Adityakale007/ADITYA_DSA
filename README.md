@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1266-minimum-time-visiting-all-points](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -367,4 +369,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0692-top-k-frequent-words/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 <!---LeetCode Topics End-->
