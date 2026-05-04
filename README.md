@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0048-rotate-image](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0048-rotate-image/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0085-maximal-rectangle/) | Hard |
 | [0134-gas-station](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0134-gas-station/) | Medium |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0048-rotate-image/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0085-maximal-rectangle/) | Hard |
 | [0174-dungeon-game](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0174-dungeon-game/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0048-rotate-image/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
