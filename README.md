@@ -361,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0061-rotate-list/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
