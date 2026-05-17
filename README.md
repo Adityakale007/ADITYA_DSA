@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0134-gas-station/) | Medium |
 | [0402-remove-k-digits](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0621-task-scheduler](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0621-task-scheduler/) | Medium |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0048-rotate-image/) | Medium |
+| [0055-jump-game](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0055-jump-game/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0085-maximal-rectangle/) | Hard |
 | [0134-gas-station](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0134-gas-station/) | Medium |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0055-jump-game](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0055-jump-game/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0085-maximal-rectangle/) | Hard |
 | [0174-dungeon-game](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0174-dungeon-game/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0907-sum-of-subarray-minimums/) | Medium |
