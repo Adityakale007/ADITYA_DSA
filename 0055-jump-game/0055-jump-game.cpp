@@ -15,13 +15,13 @@ class Solution {
         bool temp = false;
         for(int i = 1;i <= nums[index];i++){
             if(index + i < n){
-                temp = solve_TOP_DOWN(nums,index + i,dp);
-                ans = ans || temp;  ////////////////////////////////////////////////
+                // temp = solve_TOP_DOWN(nums,index + i,dp);
+                // ans = ans || temp;  ////////////////////////////////////////////////
                 ////// OR ///////
-                // if (solve_TOP_DOWN(nums, index + i, dp)) {
-                //     ans = true;
-                //     break;  // No need to check further once we found a path
-                // }
+                if (solve_TOP_DOWN(nums, index + i, dp)) {
+                    ans = true;
+                    break;  // No need to check further once we found a path
+                }
             }
         }
        return dp[index] = ans;
@@ -48,8 +48,8 @@ class Solution {
 public:
     bool canJump(vector<int>& nums) {
         int n = nums.size();
-        // vector<int> dp(n+1,-1);
-        // return solve_TOP_DOWN(nums,0,dp);
-        return solve_BOTTOM_UP(nums);
+        vector<int> dp(n+1,-1);
+        return solve_TOP_DOWN(nums,0,dp);
+        // return solve_BOTTOM_UP(nums);
     }
 };
