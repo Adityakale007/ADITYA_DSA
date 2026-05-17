@@ -4,7 +4,7 @@ private:
         int n = nums.size();
         // base case
         if (index >= n)
-            return 0;
+            return INT_MAX;
         if (index == n - 1) // on the target
             return 0;
 
@@ -16,7 +16,7 @@ private:
         int temp = 0;
         for (int i = 1; i <= nums[index]; i++) {
             if (index + i < n) {
-                int temp = dp[index + i];
+                int temp = solve_TOP_DOWN(nums,index+i,dp);
                 if (temp != INT_MAX) {
                     ans = min(ans, 1 + temp);
                 }
@@ -52,8 +52,8 @@ private:
 public:
     int jump(vector<int>& nums) {
         int n = nums.size();
-        // vector<int> dp(n+1,-1);
-        // return solve_TOP_DOWN(nums,0,dp);
-        return solve_BOTTOM__UP(nums);
+        vector<int> dp(n+1,-1);
+        return solve_TOP_DOWN(nums,0,dp);
+        // return solve_BOTTOM__UP(nums);
     }
 };
