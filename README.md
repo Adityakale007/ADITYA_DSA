@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1306-jump-game-iii](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0846-hand-of-straights](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0846-hand-of-straights/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -282,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -290,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0061-rotate-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1861-rotating-the-box](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1861-rotating-the-box/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 ## Divide and Conquer
