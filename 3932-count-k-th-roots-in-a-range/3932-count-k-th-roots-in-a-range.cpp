@@ -29,7 +29,7 @@ public:
 
         int cnt = 0;
 
-        for(int i=0; i*i <= r;i++){ //we will atleast iterate till square value is r
+        for(int i=0; i*i <= r;i++){ //we will atleast iterate till square value is r(for k >= 2)
             long long p = pow(i,k);
             if(p > r)break;
             if(p >= l   &&  p <= r)cnt++;
