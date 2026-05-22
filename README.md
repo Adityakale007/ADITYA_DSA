@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0048-rotate-image/) | Medium |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
