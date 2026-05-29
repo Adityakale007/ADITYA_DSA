@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2906-construct-product-matrix](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3848-check-digitorial-permutation](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3848-check-digitorial-permutation/) | Medium |
 ## Counting
