@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2104-sum-of-subarray-ranges](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2126-destroying-asteroids/) | Medium |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-largest-magic-square](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1895-largest-magic-square/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
