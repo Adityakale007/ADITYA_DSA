@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2957-remove-adjacent-almost-equal-characters/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3849-maximum-bitwise-xor-after-rearrangement/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -311,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [2540-minimum-common-value](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -322,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1861-rotating-the-box](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1861-rotating-the-box/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2540-minimum-common-value](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2540-minimum-common-value/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
