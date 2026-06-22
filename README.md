@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3848-check-digitorial-permutation](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3848-check-digitorial-permutation/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0846-hand-of-straights](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0846-hand-of-straights/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1189-maximum-number-of-balloons](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1345-jump-game-iv](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1980-find-unique-binary-string/) | Medium |
