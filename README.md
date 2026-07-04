@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3546-equal-sum-grid-partition-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3848-check-digitorial-permutation](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3848-check-digitorial-permutation/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
@@ -351,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -390,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-largest-magic-square](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1895-largest-magic-square/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -441,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -466,4 +472,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Adityakale007/ADITYA_DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
