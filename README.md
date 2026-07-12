@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1266-minimum-time-visiting-all-points](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1306-jump-game-iii](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1306-jump-game-iii/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [1441-build-an-array-with-stack-operations](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2540-minimum-common-value](https://github.com/Adityakale007/ADITYA_DSA/tree/main/2540-minimum-common-value/) | Easy |
@@ -305,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0846-hand-of-straights](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0846-hand-of-straights/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityakale007/ADITYA_DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Adityakale007/ADITYA_DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
