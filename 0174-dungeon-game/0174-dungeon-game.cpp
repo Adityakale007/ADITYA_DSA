@@ -4,8 +4,8 @@ public:
     int dp[201][201];
 
     int rec(int i,int j,vector<vector<int>>& d){
-        if(i >= m   ||  j >= n)return 1e9;
-        if(i == m-1 &&   j== n-1)return max(1 , 1 - d[i][j]);
+        if(i >= m   ||  j >= n)return 1e9;//as we need minimum so -> return max
+        if(i == m-1 &&   j== n-1)return max(1 , 1 - d[i][j]);   //****best line
 
         if(dp[i][j] != -1)
             return dp[i][j];
@@ -15,7 +15,7 @@ public:
 
         int need = min(right,down) - d[i][j];
 
-        return dp[i][j] = max(1,need);
+        return dp[i][j] = max(1,need);  //same as base case
 
         //dry ran from bottom we affirmed that
         //when d[i][j] > 0  -> need should be subtracted 
